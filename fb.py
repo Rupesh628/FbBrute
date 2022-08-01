@@ -45,7 +45,7 @@ def function(email,passw,i):
 		return True
 	return False
 
-print('\n---------- Welcome To Facebook BruteForce ----------\n')
+print('\n---------- Welcome To Rupesh FbBrute ----------\n')
 file=open('CodeBreaker.txt','r')
 
 email=input('Enter Email/Username : ')
